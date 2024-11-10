@@ -1,0 +1,11 @@
+.text-bold-italic {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+.text-italic {
+    font-style: italic;
+  }  

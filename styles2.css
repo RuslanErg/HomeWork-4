@@ -1,0 +1,21 @@
+ .small {
+    font-size:small;
+ }
+ .xxsmall {
+    font-size:xx-small;
+ }
+ .medium {
+    font-size: medium;
+ }
+ .xsmall {
+    font-size: x-small;
+ }
+ .large {
+    font-size: large;
+ }
+ .xlarge {
+    font-size: x-large;
+ }
+ .xxlarge {
+    font-size: xx-large;
+ } 
